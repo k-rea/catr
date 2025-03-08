@@ -10,7 +10,7 @@ cargo install --path . --force
 ## Uninstall
 
 ```shell
-cargo uninstall echor
+cargo uninstall catr
 ```
 
 ## Usage
